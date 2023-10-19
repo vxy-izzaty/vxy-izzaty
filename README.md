@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Izzaty and currently studying in University Technology Malaysia
+I am Izzaty and currently studying at University Technology Malaysia
 <!--
 **vxy-izzaty/vxy-izzaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
